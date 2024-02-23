@@ -1,6 +1,6 @@
 # Fit-Physique Gym Website
 
-Responsive Gym Website Built using html css & javascript
+Responsive Gym Website using html css & javascript
 
 
 ## Demo :
